@@ -19,3 +19,4 @@ The project aims to achieve the following measurable outcomes:
 - Measure different models of profit in different perspectives for pairs trading.
 - Compare results of different models to evaluate the accuracy and error rate of the trading strategy.
 By providing a comprehensive understanding of pairs trading and a tested methodology for implementing the strategy, this project aims to assist investors in maximizing their returns while minimizing risk
+![posterversion3](https://user-images.githubusercontent.com/62050298/234886062-21a2f071-1c23-4662-93d0-035f5386cef7.png)
